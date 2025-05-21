@@ -1,6 +1,6 @@
 # SpeedUP
 UDP2RAW+TinyFECVPN Docker Combo With HTTP Header Spoof.
-> You can git clone this repo to local then replace the binary files as you want.
+You can git clone this repo to local then replace the binary files as you want.
 
 ## Original
 ```
@@ -15,7 +15,7 @@ https://github.com/MikeWang000000/udp2raw
 2. docker build . -t speeder
 ```
 
-## How to run
+## How to run like a boss
 
 ```
 docker run -d --name myvpn \
