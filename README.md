@@ -1,7 +1,8 @@
 # SpeedUP
-UDP2RAW TinyFECVPN Docker Combo.
+UDP2RAW+TinyFECVPN Docker Combo With HTTP Header Spoof.
+> You can git clone this repo to local then replace the binary files as you want.
 
-## Original Repo
+## Original
 ```
 https://github.com/wangyu-/udp2raw
 https://github.com/wangyu-/tinyfecVPN
