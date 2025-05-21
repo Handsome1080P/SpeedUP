@@ -1,7 +1,7 @@
 # SpeedUP
 UDP2RAW+TinyFECVPN Docker Combo With HTTP Header Spoof.
 
-You can git clone this repo to local then replace the binary files as you want.
+Default with lastest build with udpspeeder crc32 patch and udp2raw http header spoof patch.You also can git clone this repo to local then replace the binary files as you want.
 
 ## Original
 ```
@@ -9,8 +9,12 @@ https://github.com/wangyu-/udp2raw
 https://github.com/wangyu-/tinyfecVPN
 https://github.com/MikeWang000000/udp2raw
 ```
+## Docker HUB
+```
+zhouyut001/speedup
+```
 
-## Build
+## How to build
 ```
 1. git clone to local.
 2. docker build . -t speeder
